@@ -1,0 +1,6 @@
+.img {
+  background-image: url("/src/assets/home/featured.jpg"),
+    linear-gradient(0deg, rgba(21, 21, 21, 0.7) 0%, rgba(21, 21, 21, 0.7) 100%);
+
+  /* background: "linear-gradient(0deg, rgba(21, 21, 21, 0.70) 0%, rgba(21, 21, 21, 0.70) 100%)"; */
+}

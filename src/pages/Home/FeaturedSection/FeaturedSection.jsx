@@ -1,13 +1,11 @@
 import SectionTitle from "../../../components/SectionTitle/SectionTitle";
+import "./FeaturedSectionCss.css";
 
 const FeaturedSection = () => {
   return (
     <section
-      className="bg-[url('/src/assets/home/featured.jpg')] bg-cover pt-10 my-20 min-h-[100vh] bg-transparent bg-fixed"
-      style={{
-        background:
-          "linear-gradient(0deg, rgba(21, 21, 21, 0.70) 0%, rgba(21, 21, 21, 0.70) 100%)",
-      }}
+      className="bg-[url('')] bg-cover pt-10 my-20 min-h-[100vh] bg-transparent bg-fixed img"
+      style={{}}
     >
       <SectionTitle title={"---Check it out---"} heading={"FROM OUR MENU"} />
       <div className="flex flex-col md:flex-row justify-center items-center gap-10 mt-10">
